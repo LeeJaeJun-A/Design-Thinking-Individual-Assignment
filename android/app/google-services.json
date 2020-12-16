@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87736327616",
+    "project_id": "designthinking-f2862",
+    "storage_bucket": "designthinking-f2862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87736327616:android:db4188f405e6cddb58bc25",
+        "android_client_info": {
+          "package_name": "com.designthinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87736327616-fhjqb9qtcjjon41421mbo3mvh2jdts0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.designthinking",
+            "certificate_hash": "f3a7a8eee34cb96d156eb13873296c2e762108b8"
+          }
+        },
+        {
+          "client_id": "87736327616-v62r767asetqkkisdjcld61n2i2ljccs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQk7Q9B4MVzpjxjdMy1MWvwue6yzPTBFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87736327616-v62r767asetqkkisdjcld61n2i2ljccs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
